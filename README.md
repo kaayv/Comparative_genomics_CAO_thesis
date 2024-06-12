@@ -13,4 +13,4 @@ The Central Arctic Ocean hosts diverse biota that drive crucial global biogeoche
 
 This study highlights the metabolic potential of Central Arctic Ocean microbiota and underscores the importance of understanding this diverse and intricate ecosystem.
 
-For details and to read the complete report, please refer to [here](Report/K_Venkateswaran-Thesis_report_revised.pdf)
+For details and to read the complete report, please refer to [here](Report/K_Venkateswaran-Thesis_report_revised.pdf).
